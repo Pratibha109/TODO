@@ -48,4 +48,6 @@ input{
     border: none;
     outline: none;
     background: transparent;
+    padding : 10px;
+    font-weight: 14px;
 }
